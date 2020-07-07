@@ -1,0 +1,5 @@
+Talk is cheap. Show me the code.
+Treat programmers like bad kids.
+C is quirky, flawed, and an enormous success.
+Good design adds value faster than it adds cost.
+I don't care if it works on your laptop! We can't ship your laptop!
